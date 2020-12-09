@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **labulatong/labulatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🤔一个普通的码农
+- 🌱一个理想的完美主义者
+- ❤️ 喜欢开源，喜欢技术，偶尔喜欢折腾一些奇奇怪怪的东西
+- ❤️喜欢 linux 平台，喜欢 java/go/js 语言
+- 🔭伪全栈开发者。
