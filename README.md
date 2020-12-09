@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**labulatong/labulatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Today** is a ✨ _special_ ✨ day.
 
 Here are some ideas to get you started:
 
